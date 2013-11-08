@@ -19,6 +19,7 @@ namespace MvcApplication1.Controllers
     {
         //
         // GET: /Account/Login
+        //litt mer 
 
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
