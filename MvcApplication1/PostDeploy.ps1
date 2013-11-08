@@ -1,1 +1,1 @@
-﻿Copy-Item -Path $Bildefil -Destination /Images/Bilde.jpg
+﻿Copy-Item -Path $Bildefil -Destination Images/Bilde.jpg
